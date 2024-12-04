@@ -1,6 +1,6 @@
 # About Me: 
-Currently studying at the Univerisity of Kent for a degree in Software Engineering
-See my full portfolio [here]([url](https://jarrahgreen.github.io/))
+- Degree in Software Engineering at Univerisity of Kent (Year 1 currently)
+- See my full portfolio [here](https://jarrahgreen.github.io/)
 
 
 ## Programming languages
