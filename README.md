@@ -12,13 +12,13 @@ See my full portfolio [here]([url](https://jarrahgreen.github.io/))
 </div>
 
 ## IDE's and frameworks
-Intellij Idea
-Webstorm
-Clion
+- Intellij Idea
+- Webstorm
+- Clion
 
 # Interests
-Learning spanish
-Boxing
-Running
+- Learning Spanish
+- Boxing
+- Running
 
 
