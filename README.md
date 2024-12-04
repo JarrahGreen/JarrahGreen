@@ -1,14 +1,16 @@
 # About Me: 
 Currently studying at the Univerisity of Kent for a degree in Software Engineering
-
+See my full portfolio [here]([url](https://jarrahgreen.github.io/))
 
 
 ## Programming languages
-Java
-Python
-HTML
-CSS
-C++
+<div id="tools" align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/></a>
+  <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="" width="50" height="50"/></a>
+  <a href=""><img src="" title="" alt="" width="50" height="50"/></a>
+</div>
 
 ## IDE's and frameworks
 Intellij Idea
@@ -20,4 +22,4 @@ Learning spanish
 Boxing
 Running
 
-See my full portfolio [here]([url](https://jarrahgreen.github.io/))
+
