@@ -9,6 +9,9 @@
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/></a>
   <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="javascript" width="50" height="50"/></a>
+  
 </div>
 
 ## IDE's and frameworks
