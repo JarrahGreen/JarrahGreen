@@ -1,6 +1,7 @@
 # Hi, I'm Dylan Green
 
 🎓 2nd Year BSc Software Engineering Student @ University of Kent
+
 💻 Passionate about software, web, and game development  
 🚀 Always eager to take on challenges, learn new skills, and build impactful projects  
 
