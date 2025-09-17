@@ -1,5 +1,6 @@
 # About Me: 
-- Degree in Software Engineering at Univerisity of Kent (Year 1 currently)
+- Bcs in Software Engineering at Univerisity of Kent (Year 2 currently)
+- 1st year 1
 - See my full portfolio [here](https://jarrahgreen.github.io/)
 
 
