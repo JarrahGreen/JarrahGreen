@@ -1,4 +1,4 @@
-# Hi, I'm Dylan Green 👋  
+# Hi, I'm Dylan Green
 
 🎓 2nd Year BSc Software Engineering Student @ University of Kent  
 💻 Passionate about software, web, and game development  
@@ -86,8 +86,3 @@ Additional: Unity, Figma, Piskel, SQLite
 - 🥊 Boxing – discipline & perseverance  
 - 🏃 Running – endurance & self-improvement  
 - 🎮 Programming games – creativity & problem solving  
-
----
-
-📫 Reach me: **dylan1080g@gmail.com**  
-🔗 [GitHub](https://github.com/JarrahGreen) | [Portfolio](https://jarrahgreen.github.io/)  
